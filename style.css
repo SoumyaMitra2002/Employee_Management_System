@@ -161,7 +161,7 @@ ul {
   display: inline-flex;
   position: relative;
   padding-left: 50px;
-  margin-left: 50px;
+  margin-left: 110px;
   margin-right: 50px;
 }
 
@@ -632,6 +632,7 @@ ul {
 .additional-list .contact li:hover{
   text-decoration: underline;
 }
+
 
 
 
