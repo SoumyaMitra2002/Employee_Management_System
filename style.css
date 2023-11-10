@@ -214,7 +214,8 @@ ul {
   cursor: pointer;
   display: block;
   font-weight: 400;
-  padding: 9px 0;
+  padding: 9px 0px;
+  
 }
 
 .top_right > ul > li > a i {
